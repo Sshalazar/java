@@ -1,0 +1,23 @@
+
+Si autorizó una transferencia y no poseo facultades no se autorizará, TEF ME seguirá en estado por autorizar o en autorización. 
+
+Se visualizará en el comprobante html que no se pudo autorizar (próxima hu).
+
+ 
+
+ Expiraciones de transacciones
+
+Criterios de aceptación:
+
+Transferencias duran 5 días en el módulo de autorización desde su fecha de ingreso o desde la fecha en que llegan. Al finalizar su plazo desaparecen del módulo de autorización, quedando en estado Expirada en la consulta (próxima hu lo de consulta).
+
+ 
+
+
+
+Servicio de transferencias estará disponible 24/7.
+
+
+
+
+CAMBIO para hacer un pull.
